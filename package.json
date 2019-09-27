@@ -1,0 +1,14 @@
+{
+  "id": "severa",
+  "name": "Severa",
+  "version": "1.0.0",
+  "description": "Severa",
+  "main": "index.js",
+  "author": "Richard Sahrakorpi <rjgunning+recipeHappeo@gmail.com>",
+  "repository": "https://github.com/RGunning/recipe-severa",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://secure.severa.com/vismasevera",
+    "hasNotificationSound": true
+  }
+}
