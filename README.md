@@ -1,6 +1,6 @@
 # Severa for Franz
 
-This is the un-official Franz recipe for [Severa](https://secure.severa.com/vismasevera)
+This is the unofficial Franz recipe for [Severa](https://secure.severa.com/vismasevera)
 
 ## Requirements
 
